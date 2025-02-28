@@ -12,6 +12,7 @@
           variant="outlined"
           hide-details
           single-line
+          density="compact"
         ></v-text-field>
       </template>
   

@@ -39,12 +39,6 @@ const cols = ref([
     {cols: '12', sm: '6', md: '4', lg: '3', xl: '2', xxl: '2'},
     {cols: '12', sm: '6', md: '4', lg: '3', xl: '2', xxl: '2'},
     {cols: '12', sm: '6', md: '4', lg: '3', xl: '2', xxl: '2'},
-    // {cols: '12', sm: '3'},
-    // {cols: '12', sm: '3'},
-    // {cols: '12', sm: '3'},
-    // {cols: '12', sm: '3'},
-    // {cols: '12', sm: '3'},
-    // {cols: '12', sm: '3'},
   
 ])
 
